@@ -150,46 +150,13 @@
         <div class="container">
             <div class="widget">
                 <div class="adress">
-                    <p><span style="font-weight: 600;">Địa chỉ: </span>Phố Phạm Văn Bạch, phường Yên Hòa, quận Cầu Giấy,
-                        Hà Nội</p>
+                    
                 </div>
                 <div class="icon">
-                    <!--                <span class="hotline" style="font-size: 11px">-->
-                    <!--</span>-->
-                    <!--                <span class="hotline" style="font-size: 11px">-->
-                    <!--</span>-->
-                    <div class="the-search">
-                        <!--                    <a href="" class="toggle-search"><i class="fa fa-search"></i></a>-->
-                        <form action="" id="searchForm">
-                            <input type="text" name="s" class="form-control" placeholder="Tìm kiếm..." />
-                            <button type="submit"><i class="fa fa-search"></i></button>
-                        </form>
-                    </div>
-                    <a href="https://www.facebook.com/vienhuyethoc/" target="_blank">
-                        <!--                    <i class="fa fa-facebook-square"aria-hidden="true"></i>-->
-                        <img src="../css/hienmau/wp-content/themes/bvhopluc/images/icon/facebook-f.png" alt="" />
-                    </a>
-                    <a href="https://www.youtube.com/channel/UCRH6xpq_NGz2RCHzl5wj1Ag" target="_blank">
-                        <!--                    <i class="fa fa-youtube-square" aria-hidden="true"></i>-->
-                        <img src="../css/hienmau/wp-content/themes/bvhopluc/images/icon/youtube.png" alt="" />
-                    </a>
-                    <a href="https://www.instagram.com/vienhuyethoc_truyenmautw/" target="_blank">
-                        <!--                    <i class="fa fa-instagram" aria-hidden="true"></i>-->
-                        <img src="../css/hienmau/wp-content/themes/bvhopluc/images/icon/icon-insta.png" alt="" />
-                    </a>
-                    <a href="https://www.tiktok.com/@hienmau_vienhuyethoc" target="_blank">
-                        <!--                    <i class="fa fa-instagram" aria-hidden="true"></i>-->
-                        <img src="../css/hienmau/wp-content/themes/bvhopluc/images/icon/icon-tiktok.png" alt="" />
-                    </a>
-                    <a href="#" class="text-login modal-login" data-modal="login " onclick="return false">
-                        <img class="avatar" src="../css/hienmau/wp-content/themes/bvhopluc/images/avatar_silkhouse.gif" width="25"
-                            height="25" alt="avatar" style="margin-right: 10px">
-                        <!--                        --> </a>
+                    
                 </div>
                 <div class="adress two-phone">
-                    Hiến máu: <a href="tel:0976990066"><span style="padding-left: 5px">0976990066</span> </a></p>
-                    Đặt lịch khám theo yêu cầu: <a href="tel:1900969670"><span
-                            style="padding-left: 5px">1900969670</span> </a></p>
+                    
                 </div>
             </div>
         </div>
@@ -207,25 +174,13 @@
                         <h5>National institute of hematology and blood transfusion (nihbt)</h5>
                     </a>
                     <h5>ĐƠN VỊ ANH HÙNG LAO ĐỘNG THỜI KỲ ĐỔI MỚI</h5>
-                    <!--                <img src="-->
-                    <!--/images/vi-suc-khoe-dong-mau-viet.png" alt="">-->
-                    <!--                <div class="huanchuong">-->
-                    <!--                    <img src="--><!--" alt="">-->
-                    <!--                </div>-->
+                   
                 </div>
                 <div class="huanchuong">
                     <img src="../css/hienmau/wp-content/uploads/2020/01/huanchuong.png" alt="">
                 </div>
                 <div class="form-menu">
-                    <!--                --> <!--                    <a --><!-- href="-->
-                    <!--"-->
-                    <!--                       class="medical register -->
-                    <!--"-->
-                    <!--                       data-modal="-->
-                    <!--"><i class="fa fa-plus-square"-->
-                    <!--                                                                               aria-hidden="true"></i>-->
-                    <!--                    </a>-->
-                    <!--                -->
+                    
                 </div>
             </div>
         </header>
@@ -235,369 +190,15 @@
             <div class="container">
                 <div class="menu-menu-main-container">
                     <ul id="menu-menu-main" class="menu">
-                        <li id="menu-item-13548"
-                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-30 current_page_item menu-item-13548">
-                            <a href="index.html" aria-current="page">Trang chủ</a></li>
-                        <li id="menu-item-13562"
-                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13562">
-                            <a href="chuyen-muc/gioi-thieu/index.html">Giới thiệu</a>
-                            <ul class="sub-menu">
-                                <li id="menu-item-13623"
-                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13623"><a
-                                        href="lich-su-vien/index.html">Lịch sử Viện</a></li>
-                                <li id="menu-item-13561"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13561">
-                                    <a href="chuyen-muc/gioi-thieu/tam-nhin-su-menh/index.html">Tầm nhìn &#8211; Sứ
-                                        mệnh</a></li>
-                                <li id="menu-item-13558"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13558"><a
-                                        href="doi-ngu-chuyen-gia/index.html">Đội ngũ chuyên gia</a></li>
-                                <li id="menu-item-18207"
-                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18207"><a
-                                        href="co-cau-to-chuc-12/index.html">Cơ cấu tổ chức</a></li>
-                                <li id="menu-item-13560"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13560"><a
-                                        href="so-do-trang/index.html">Sơ đồ trang</a></li>
-                            </ul>
+                        @foreach($danhmuc as $dm)
+                        <li id="menu-item-13552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13562">
+                            <a href="/" aria-current="page">{{$dm['label']}}</a>
                         </li>
-                        <li id="menu-item-13552"
-                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13552">
-                            <a href="chuyen-muc/don-vi-chuyen-mon/index.html">Đơn vị chuyên môn</a>
-                            <ul class="sub-menu">
-                                <li id="menu-item-13594"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13594">
-                                    <a href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-lam-sang/index.html">Các khoa lâm
-                                        sàng</a>
-                                    <ul class="sub-menu">
-                                        <li id="menu-item-13601"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13601">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-lam-sang/khoa-kham-benh-va-dieu-tri-ngoai-tru/index.html">Khoa
-                                                Khám bệnh và Điều trị ngoại trú</a></li>
-                                        <li id="menu-item-13602"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13602">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-lam-sang/trung-tam-hemophilia-h3a/index.html">Trung
-                                                tâm Hemophilia (H3A)</a></li>
-                                        <li id="menu-item-13603"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13603">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-lam-sang/trung-tam-thalassemia-h3b/index.html">Trung
-                                                tâm Thalassemia (H3B)</a></li>
-                                        <li id="menu-item-13595"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13595">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-lam-sang/khoa-benh-mau-lanh-tinh-h4/index.html">Khoa
-                                                Bệnh máu lành tính (H4)</a></li>
-                                        <li id="menu-item-13596"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13596">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-lam-sang/khoa-benh-mau-tong-hop-h5/index.html">Khoa
-                                                Bệnh máu tổng hợp (H5)</a></li>
-                                        <li id="menu-item-13597"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13597">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-lam-sang/khoa-benh-mau-tre-em-h6/index.html">Khoa
-                                                Bệnh máu trẻ em (H6)</a></li>
-                                        <li id="menu-item-13599"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13599">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-lam-sang/khoa-dieu-tri-hoa-chat-h7/index.html">Khoa
-                                                Điều trị hóa chất (H7)</a></li>
-                                        <li id="menu-item-13600"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13600">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-lam-sang/khoa-ghep-te-bao-goc-h8/index.html">Khoa
-                                                Ghép Tế bào gốc (H8)</a></li>
-                                        <li id="menu-item-39858"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39858">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-lam-sang/khoa-hoi-suc-cap-cuu/index.html">Khoa
-                                                Hồi sức cấp cứu</a></li>
-                                        <li id="menu-item-13598"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13598">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-lam-sang/khoa-dinh-duong/index.html">Khoa
-                                                Dinh dưỡng và Tiết chế</a></li>
-                                    </ul>
-                                </li>
-                                <li id="menu-item-13604"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13604">
-                                    <a href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-can-lam-sang/index.html">Các khoa cận
-                                        lâm sàng</a>
-                                    <ul class="sub-menu">
-                                        <li id="menu-item-13613"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13613">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-can-lam-sang/khoa-te-bao-to-chuc-hoc/index.html">Khoa
-                                                Tế bào &#8211; Tổ chức học</a></li>
-                                        <li id="menu-item-13608"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13608">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-can-lam-sang/khoa-dong-mau/index.html">Khoa
-                                                Đông máu</a></li>
-                                        <li id="menu-item-13609"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13609">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-can-lam-sang/khoa-sinh-hoa/index.html">Khoa
-                                                Hóa sinh</a></li>
-                                        <li id="menu-item-13610"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13610">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-can-lam-sang/khoa-huyet-thanh-hoc-nhom-mau/index.html">Khoa
-                                                Huyết thanh học nhóm máu</a></li>
-                                        <li id="menu-item-13612"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13612">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-can-lam-sang/khoa-mien-dich/index.html">Khoa
-                                                Miễn dịch</a></li>
-                                        <li id="menu-item-13606"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13606">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-can-lam-sang/khoa-di-truyen-va-sinh-hoc-phan-tu/index.html">Khoa
-                                                Di truyền và sinh học phân tử</a></li>
-                                        <li id="menu-item-13614"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13614">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-can-lam-sang/khoa-vi-sinh/index.html">Khoa
-                                                Vi Sinh</a></li>
-                                        <li id="menu-item-13605"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13605">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-can-lam-sang/khoa-chan-doan-hinh-anh-va-tham-do-chuc-nang/index.html">Khoa
-                                                Chẩn đoán hình ảnh và thăm dò chức năng</a></li>
-                                        <li id="menu-item-13611"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13611">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/cac-khoa-can-lam-sang/khoa-kiem-soat-nhiem-khuan/index.html">Khoa
-                                                Kiểm soát nhiễm khuẩn</a></li>
-                                    </ul>
-                                </li>
-                                <li id="menu-item-13622"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13622">
-                                    <a href="chuyen-muc/don-vi-chuyen-mon/trung-tam-mau-quoc-gia/index.html">Trung tâm
-                                        Máu quốc gia</a>
-                                    <ul class="sub-menu">
-                                        <li id="menu-item-29421"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29421">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/trung-tam-mau-quoc-gia/van-phong-trung-tam-mau-quoc-gia/index.html">Văn
-                                                phòng Trung tâm Máu quốc gia</a></li>
-                                        <li id="menu-item-13617"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13617">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/trung-tam-mau-quoc-gia/khoa-tiep-nhan-mau-va-cac-thanh-phan-mau/index.html">Khoa
-                                                Tiếp nhận máu và các thành phần máu</a></li>
-                                        <li id="menu-item-13615"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13615">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/trung-tam-mau-quoc-gia/khoa-dieu-che-cac-thanh-phan-mau/index.html">Khoa
-                                                Điều chế các thành phần máu</a></li>
-                                        <li id="menu-item-13619"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13619">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/trung-tam-mau-quoc-gia/khoa-xet-nghiem-sang-loc-mau/index.html">Khoa
-                                                Xét nghiệm sàng lọc máu</a></li>
-                                        <li id="menu-item-13616"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13616">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/trung-tam-mau-quoc-gia/khoa-luu-tru-va-phan-phoi-mau/index.html">Khoa
-                                                Lưu trữ và Phân phối máu</a></li>
-                                        <li id="menu-item-13620"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13620">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/trung-tam-mau-quoc-gia/ngan-hang-te-bao-goc/index.html">Ngân
-                                                hàng Tế bào gốc</a></li>
-                                        <li id="menu-item-13621"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13621">
-                                            <a
-                                                href="chuyen-muc/don-vi-chuyen-mon/trung-tam-mau-quoc-gia/phong-quan-he-cong-chung/index.html">Phòng
-                                                Quan hệ công chúng</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
+                        @endforeach
+                        <li id="menu-item-13552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13562">
+                            <a href="/dang-ky-hien-mau" aria-current="page">Đăng ký hiến máu</a>
                         </li>
-                        <li id="menu-item-13551"
-                            class="menu-mega menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13551">
-                            <a href="chuyen-muc/don-vi-chuc-nang/index.html">Đơn vị chức năng</a>
-                            <ul class="sub-menu">
-                                <li id="menu-item-13590"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13590">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/phong-to-chuc-can-bo/index.html">Phòng Tổ chức
-                                        cán bộ</a></li>
-                                <li id="menu-item-13585"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13585">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/phong-ke-hoach-tong-hop/index.html">Phòng Kế
-                                        hoạch tổng hợp</a></li>
-                                <li id="menu-item-13589"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13589">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/phong-tai-chinh-ke-toan/index.html">Phòng Tài
-                                        chính kế toán</a></li>
-                                <li id="menu-item-13584"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13584">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/phong-hanh-chinh/index.html">Phòng Hành
-                                        chính</a></li>
-                                <li id="menu-item-13588"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13588">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/phong-quan-tri/index.html">Phòng Quản trị</a>
-                                </li>
-                                <li id="menu-item-13592"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13592">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/phong-vat-tu-thiet-bi-y-te/index.html">Phòng
-                                        Vật tư &#8211; Thiết bị Y tế</a></li>
-                                <li id="menu-item-13607"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13607">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/khoa-duoc/index.html">Khoa Dược</a></li>
-                                <li id="menu-item-13581"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13581">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/phong-cong-nghe-thong-tin/index.html">Phòng
-                                        Công nghệ thông tin</a></li>
-                                <li id="menu-item-13587"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13587">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/phong-quan-ly-chat-luong/index.html">Phòng Quản
-                                        lý chất lượng</a></li>
-                                <li id="menu-item-13583"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13583">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/phong-dieu-duong-va-ky-thuat-vien/index.html">Phòng
-                                        Điều dưỡng và Kỹ thuật viên</a></li>
-                                <li id="menu-item-13582"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13582">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/phong-cong-tac-xa-hoi/index.html">Phòng Công
-                                        tác xã hội</a></li>
-                                <li id="menu-item-13586"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13586">
-                                    <a
-                                        href="chuyen-muc/don-vi-chuc-nang/phong-quan-ly-cac-chuong-trinh-du-an-va-doi-ngoai/index.html">Phòng
-                                        Quản lý các chương trình, dự án và Đối ngoại</a></li>
-                                <li id="menu-item-13591"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13591">
-                                    <a
-                                        href="chuyen-muc/don-vi-chuc-nang/phong-truyen-thong-giao-duc-suc-khoe/index.html">Phòng
-                                        Truyền thông – Giáo dục sức khỏe</a></li>
-                                <li id="menu-item-13593"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13593">
-                                    <a href="chuyen-muc/don-vi-chuc-nang/trung-tam-dao-tao-va-chi-dao-tuyen/index.html">Trung
-                                        tâm Đào tạo và Chỉ đạo tuyến</a></li>
-                            </ul>
-                        </li>
-                        <li id="menu-item-13550"
-                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13550">
-                            <a href="chuyen-muc/dich-vu-noi-bat/index.html">Dịch vụ nổi bật</a>
-                            <ul class="sub-menu">
-                                <li id="menu-item-13567"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13567">
-                                    <a href="chuyen-muc/dich-vu-noi-bat/kham-benh-tu-van/index.html">Khám bệnh, tư
-                                        vấn</a></li>
-                                <li id="menu-item-13564"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13564">
-                                    <a href="chuyen-muc/dich-vu-noi-bat/xet-nghiem-va-tham-do-chuc-nang/index.html">Xét
-                                        nghiệm và thăm dò chức năng</a></li>
-                                <li id="menu-item-13566"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13566">
-                                    <a href="chuyen-muc/dich-vu-noi-bat/dieu-tri/index.html">Điều trị</a></li>
-                                <li id="menu-item-13563"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13563">
-                                    <a href="chuyen-muc/dich-vu-noi-bat/tiep-nhan-mau-va-cung-cap-mau/index.html">Tiếp
-                                        nhận máu và cung cấp máu</a></li>
-                                <li id="menu-item-13565"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13565">
-                                    <a href="chuyen-muc/dich-vu-noi-bat/dao-tao-nghien-cuu-khoa-hoc/index.html">Đào tạo
-                                        – Nghiên cứu khoa học</a></li>
-                            </ul>
-                        </li>
-                        <li id="menu-item-13553"
-                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13553">
-                            <a href="chuyen-muc/hien-mau/index.html">Hiến máu</a>
-                            <ul class="sub-menu">
-                                <li id="menu-item-13568"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13568">
-                                    <a href="chuyen-muc/hien-mau/hoat-dong-su-kien-hien-mau/index.html">Hoạt động, sự
-                                        kiện hiến máu</a>
-                                    <ul class="sub-menu">
-                                        <li id="menu-item-13569"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13569">
-                                            <a
-                                                href="chuyen-muc/hien-mau/hoat-dong-su-kien-hien-mau/hanh-trinh-do/index.html">Hành
-                                                trình Đỏ</a></li>
-                                        <li id="menu-item-13572"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13572">
-                                            <a
-                                                href="chuyen-muc/hien-mau/hoat-dong-su-kien-hien-mau/le-hoi-xuan-hong/index.html">Lễ
-                                                hội Xuân hồng</a></li>
-                                    </ul>
-                                </li>
-                                <li id="menu-item-13570"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13570">
-                                    <a href="chuyen-muc/hien-mau/chuyen-nguoi-hien-mau/index.html">Chuyện người hiến
-                                        máu</a></li>
-                                <li id="menu-item-13571"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13571">
-                                    <a href="chuyen-muc/hien-mau/hien-mau-an-toan/index.html">Hiến máu an toàn</a></li>
-                            </ul>
-                        </li>
-                        <li id="menu-item-13555"
-                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13555">
-                            <a href="chuyen-muc/tin-tuc/index.html">Tin tức</a>
-                            <ul class="sub-menu">
-                                <li id="menu-item-13576"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13576">
-                                    <a href="chuyen-muc/tin-tuc/hoat-dong-su-kien/index.html">Hoạt động &#8211; Sự
-                                        kiện</a>
-                                    <ul class="sub-menu">
-                                        <li id="menu-item-13718"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13718">
-                                            <a
-                                                href="chuyen-muc/tin-tuc/hoat-dong-su-kien/hoi-nghi-huyet-hoc-truyen-mau-toan-quoc-2022/index.html">HỘI
-                                                NGHỊ HUYẾT HỌC &#8211; TRUYỀN MÁU TOÀN QUỐC 2022</a></li>
-                                    </ul>
-                                </li>
-                                <li id="menu-item-13577"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13577">
-                                    <a href="chuyen-muc/tin-tuc/thong-bao/index.html">Thông báo</a></li>
-                                <li id="menu-item-24668"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24668">
-                                    <a href="chuyen-muc/tin-tuc/cong-dan-vien-mau/index.html">Công dân Viện Máu</a></li>
-                                <li id="menu-item-13574"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13574">
-                                    <a href="chuyen-muc/tin-tuc/cau-chuyen-nguoi-benh/index.html">Câu chuyện người
-                                        bệnh</a></li>
-                                <li id="menu-item-13575"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13575">
-                                    <a href="chuyen-muc/tin-tuc/cong-tac-xa-hoi/index.html">Công tác xã hội</a></li>
-                            </ul>
-                        </li>
-                        <li id="menu-item-13554"
-                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13554">
-                            <a href="chuyen-muc/dao-tao-cdt/index.html">Thông tin cần biết</a>
-                            <ul class="sub-menu">
-                                <li id="menu-item-13578"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13578">
-                                    <a href="chuyen-muc/dao-tao-cdt/giao-duc-suc-khoe/index.html">Giáo dục sức khỏe</a>
-                                </li>
-                                <li id="menu-item-13579"
-                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13579"><a
-                                        href="gio-lam-viec-lich-kham-benh-va-hien-mau/index.html">Giờ làm việc (lịch
-                                        khám bệnh và hiến máu)</a></li>
-                                <li id="menu-item-13580"
-                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13580"><a
-                                        href="lich-tham-benh-nhan/index.html">Giờ thăm bệnh nhân</a></li>
-                                <li id="menu-item-29652"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29652"><a
-                                        href="lien-he/index.html">Liên hệ</a></li>
-                                <li id="menu-item-13656"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13656"><a
-                                        href="http://hoadon.nihbt.com/">Tra cứu hóa đơn điện tử</a></li>
-                                <li id="menu-item-13573"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13573"><a
-                                        href="chi-phi-dich-vu/index.html">Chi phí dịch vụ</a></li>
-                                <li id="menu-item-13657"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13657"><a
-                                        href="danh_sach_phong_ban/tai-lieu/index.html">Tài liệu công khai</a></li>
-                            </ul>
-                        </li>
-                        <li id="menu-item-38767"
-                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38767"><a
-                                href="video/index.html">Video</a></li>
+                        
                     </ul>
                 </div>
                 <div class="header-right part-mo">
@@ -1059,37 +660,12 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="ft-info footer-address">
-                                    <h5><strong>Lịch khám</strong></h5>
-                                    <p>Thứ 2 &#8211; Thứ 6: 6h30 &#8211; 17h00<br />
-                                        Thứ 7: 7h30 – 17h00<br />
-                                        Tổng đài Đặt lịch khám theo yêu cầu: 1900 96 96 70</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="ft-info footer-address">
-                                    <h5><span style="font-size: 12pt;"><strong>Lịch hiến máu tình nguyện</strong></span>
-                                    </h5>
-                                    <p>Tất cả các ngày: 7h30 – 19h00<br />
-                                        Tổng đài hiến máu: 0976 99 00 66</p>
-                                    <p>&nbsp;</p>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
             
-            <div class="row">
-                <div class="col-12 text-center">
-                    <h5 class="copyright mt-2">Trang thông tin điện tử tổng hợp của Viện Huyết học - Truyền máu Trung
-                        ương, giấy phép hoạt động số: 60/GP-TTĐT do bộ Thông tin và Truyền thông cấp ngày 15/6/2016</h5>
-                    <h5 class="copyright mt-2">Thiết kế website VIỆN HUYẾT HỌC - TRUYỀN MÁU TRUNG ƯƠNG bởi <a
-                            href="https://wecan-group.com/" target="_blank">wecan-group.com</a></h5>
-                </div>
-            </div>
+           
         </div>
     </div>
     <div id="icon-fixed-right">

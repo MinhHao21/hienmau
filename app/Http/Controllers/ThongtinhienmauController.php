@@ -10,29 +10,29 @@ class ThongtinhienmauController extends Controller
 {
     public function trangchu()
     {
-        $dangky = thongtinnguoihien::all();
+        $dangkyhienmau = thongtinnguoihien::all();
 
         return view('posts.home', [
             
-            'dangky' => $dangky,
+            'dangkyhienmau' => $dangkyhienmau,
         ]);
     }
 
 
-    public function dangky()
+    public function dangkyhienmau()
     {
-        $dangky = thongtinnguoihien::all();
-        return $dangky;
+        $dangkyhienmau = thongtinnguoihien::all();
+        return $dangkyhienmau;
         
     }
 
-    public function dangkyview()
+    public function dangkyhienmauview()
     {
-        $dangky = thongtinnguoihien::all();
+        $dangkyhienmau = thongtinnguoihien::all();
         
-        return view('posts.dangky', [
+        return view('posts.dangkyhienmau', [
 
-            'dangky' => $dangky,
+            'dangkyhienmau' => $dangkyhienmau,
         ]);
     }
 

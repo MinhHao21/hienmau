@@ -17,7 +17,7 @@ use App\Models\thongtinnguoihien;
 |
 */
 
-Route::get('/dang-ky', [ThongtinhienmauController::class, 'dangky'])->name('dangky');
+Route::get('/dang-ky-hien-mau', [ThongtinhienmauController::class, 'dangkyhienmau'])->name('dangkyhienmau');
 
 // api sua
 

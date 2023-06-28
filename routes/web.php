@@ -74,9 +74,9 @@ Route::get('/thu-vien-anh/{slug}', [DanhmucController::class, 'thuvienanh'])->na
 // Route::post('/ung-tuyen', [TuyendungController::class, 'phanhoi'])->name('ungtuyen');
 // Route::get('/danh-muc', [TuyendungController::class, 'danhmuc'])->name('posts.danhmuchacon');
 Route::get('/', [ThongtinhienmauController::class, 'trangchu'])->name('trangchu');
-Route::get('/dang-ky', [ThongtinhienmauController::class, 'dangky'])->name('posts.dangky');
-Route::get('/dang-ky', [ThongtinhienmauController::class, 'dangkyview'])->name('posts.dangky');
-Route::post('/dang-ky', [ThongtinhienmauController::class, 'phanhoi'])->name('posts.dangky');
+Route::get('/dang-ky-hien-mau', [ThongtinhienmauController::class, 'dangkyhienmau'])->name('posts.dangkyhienmau');
+Route::get('/dang-ky-hien-mau', [ThongtinhienmauController::class, 'dangkyhienmauview'])->name('posts.dangkyhienmau');
+Route::post('/dang-ky-hien-mau', [ThongtinhienmauController::class, 'phanhoi'])->name('posts.dangkyhienmau');
 
 
 
