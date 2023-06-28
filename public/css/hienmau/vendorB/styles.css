@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'bevnb';
+    src: url('fonts/bevietnam/BeVietnam-Bold.ttf'); /* IE9 Compat Modes */
+    src:url('fonts/bevietnam/BeVietnam-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+        
+  }
+  @font-face {
+    font-family: 'bevnsemib';
+    
+    src:  url('fonts/bevietnam/BeVietnam-SemiBold.ttf'); 
+  }
+  @font-face {
+    font-family: 'bevnexb';     
+    src:  url('fonts/bevietnam/BeVietnam-ExtraBold.ttf'); 
+  }
+  @font-face {
+    font-family: 'bevnm';     
+    src:  url('fonts/bevietnam/BeVietnam-Medium.ttf'); 
+  }
+  @font-face {
+    font-family: 'bevnt';     
+    src:  url('fonts/bevietnam/BeVietnam-Thin.ttf'); 
+  }
+ 
+  @font-face {
+    font-family: 'bevnr';     
+    src:  url('fonts/bevietnam/BeVietnam-Regular.ttf'); 
+  }
+ 

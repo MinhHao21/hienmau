@@ -1,0 +1,59 @@
+/*
+Theme Name: BV Huyết Học
+Theme URI: https://wecan-group.com
+Author: Wecan Group
+Author URI: https://wecan-group.com
+Description: Our 2018 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+Version: 1.0
+Tags: html, css, wordpress, woocommrece, responsive, tablet, mobile, mixcolors, good seo
+*/
+
+.pagi-custom ul{
+	list-style: none;
+	display: flex;
+}
+.ws-hello{
+	max-width: 350px!important;
+}
+.ws-hello h3{
+	font-size: 20px;
+	font-weight: 600;
+	color: #0da89b;
+	margin: 0 0 25px;
+	text-transform: uppercase;
+	line-height: 34px;
+	text-align: center;
+}
+.ws-hello{
+	border-radius: 20px;
+}
+.ws-hello button.btn{
+	width: 100%;
+	background: #14a997 !important;
+	color: #fff;
+	text-transform: uppercase;
+}
+.news-tagname{
+	color: #000;
+	font-weight: bold;
+}
+.news-tags-item a{
+	color: #939393;
+	background-color: #f1f1f1;
+	padding: 3px 6px;
+	border-radius: 4px;
+	margin-right: 5px;
+	display: inline-block;
+	margin-bottom: 5px;
+	font: 700 12px/17px Sans, Helvetica, tahoma, sans-serif;
+}
+li.active{
+	background: #c1141a;
+}
+#bookTime {
+	height: 48px;
+}
+.modal-box{
+	width: 90% !important;
+	max-width: 1024px !important;
+}

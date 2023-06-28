@@ -1,0 +1,31 @@
+
+.the-search form input {
+    width: 160px !important;
+}
+.widget .icon a {
+    padding-left: 10px;
+}
+.two-phone a {
+    color: #fff
+}
+.header-info .widget .icon {
+    margin-left: 173px;
+}
+.modal-trigger {
+    line-height: 12px !important;
+}
+@media screen and (min-width: 1600px){
+    .the-search form {
+        right: 45% !important;
+    }
+}
+@media (max-width: 1300px) {
+    .the-search form {
+        right: 43% !important;
+    }
+}
+@media (min-width: 1301px) and (max-width: 1600px) {
+    .the-search form {
+        right: 44% !important;
+    }
+}

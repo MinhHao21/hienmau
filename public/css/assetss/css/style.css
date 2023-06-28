@@ -1,0 +1,18 @@
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.datepicker td, .datepicker th {
+    width: 2.5rem;
+    height: 2.5rem;
+    font-size: 0.85rem;
+}
+
+.datepicker {
+    margin-bottom: 3rem;
+}
+.logo-admin{
+    width: 150px;
+}
