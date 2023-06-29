@@ -77,7 +77,7 @@ Route::get('/', [ThongtinhienmauController::class, 'trangchu'])->name('trangchu'
 Route::get('/dang-ky-hien-mau', [ThongtinhienmauController::class, 'dangkyhienmau'])->name('posts.dangkyhienmau');
 Route::get('/dang-ky-hien-mau', [ThongtinhienmauController::class, 'dangkyhienmauview'])->name('posts.dangkyhienmau');
 Route::post('/dang-ky-hien-mau', [ThongtinhienmauController::class, 'phanhoi'])->name('posts.dangkyhienmau');
-Route::post('/ti-gia-ngoai-te', [ThongtinhienmauController::class, 'tigiangoaite'])->name('posts.tigiangoaite');
+Route::get('/ti-gia-ngoai-te', [ThongtinhienmauController::class, 'tigiangoaite'])->name('posts.tigiangoaite');
 
 
 

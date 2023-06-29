@@ -7,6 +7,7 @@ use App\Models\thongtinnguoihien;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Http;
 use DOMDocument;
+use GuzzleHttp\Client;
 
 class ThongtinhienmauController extends Controller
 {
@@ -58,9 +59,14 @@ class ThongtinhienmauController extends Controller
 
     public function tigiangoaite()
     {
-        $response = Http::get('https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx?b=10');
+
+        $client = new Client([
+            'verify' => false, // Sửa từ 'curl' thành 'verify' và đặt giá trị là false
+        ]);
+        $response = $client->get("https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx?b=10");
+        
         $xml = new DOMDocument();
-        $xml->loadXML($response->body());
+        $xml->loadXML($response->getBody());
 
         $dateTime = $xml->getElementsByTagName('DateTime')->item(0)->nodeValue;
         $exrates = [];
@@ -81,7 +87,7 @@ class ThongtinhienmauController extends Controller
                 'sell' => $sell,
             ];
         }
-
+                return $exrates;
         return view('exchange_rates', [
             'dateTime' => $dateTime,
             'exrates' => $exrates,
