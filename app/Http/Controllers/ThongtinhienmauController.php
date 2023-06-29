@@ -51,6 +51,6 @@ class ThongtinhienmauController extends Controller
         
         $thongtinphanhoi->save();
 
-        return redirect('/dang-ky')->with('status', 'Đăng ký thành công');
+        return redirect('/dang-ky-hien-mau')->with('status', 'Đăng ký thành công');
     }
 }
