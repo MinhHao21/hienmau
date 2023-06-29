@@ -1,17 +1,18 @@
 @extends('layout.trangchu')
 @section('content')
-<h1>Exchange Rates</h1>
+<div class="container">
+<h1>Tỷ giá ngoại tệ Vietcombank hôm nay</h1>
 
     <p>Updated at: {{ $dateTime }}</p>
 
     <table>
         <thead>
             <tr>
-                <th>Currency Code</th>
-                <th>Currency Name</th>
-                <th>Buy</th>
-                <th>Transfer</th>
-                <th>Sell</th>
+                <th>MÃ NGOẠI T</th>
+                <th>TÊN NGOẠI TỆ</th>
+                <th>MUA</th>
+                <th>CHUYỂN KHOẢN</th>
+                <th>BÁN</th>
             </tr>
         </thead>
         <tbody>
@@ -26,4 +27,5 @@
             @endforeach
         </tbody>
     </table>
+    </div>
 @endsection

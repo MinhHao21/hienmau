@@ -198,6 +198,9 @@
                         <li id="menu-item-13552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13562">
                             <a href="/dang-ky-hien-mau" aria-current="page">Đăng ký hiến máu</a>
                         </li>
+                        <li id="menu-item-13552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13562">
+                            <a href="/ti-gia-ngoai-te" aria-current="page">Tỷ giá ngoại tệ</a>
+                        </li>
                         
                     </ul>
                 </div>

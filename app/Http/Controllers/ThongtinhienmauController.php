@@ -87,8 +87,7 @@ class ThongtinhienmauController extends Controller
                 'sell' => $sell,
             ];
         }
-                return $exrates;
-        return view('exchange_rates', [
+        return view('posts.tigiangoaite', [
             'dateTime' => $dateTime,
             'exrates' => $exrates,
         ]);
